@@ -1,6 +1,6 @@
 ## AT04-Modulos-e-Pacotes
 
-#Você foi contratado para analisar os resultados de uma pesquisa com números fornecidos por uma empresa. Para isso, você utilizará o módulo statistics para calcular a e a dos dados. 
+# Você foi contratado para analisar os resultados de uma pesquisa com números fornecidos por uma empresa. Para isso, você utilizará o módulo statistics para calcular a e a dos dados. 
 
 1- Importe o módulo statistics e crie uma lista com 14 elementos contendo números em ordem crescente. 
 
